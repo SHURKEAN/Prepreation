@@ -1,0 +1,26 @@
+chessboard {
+    display: block;
+    border: 2px solid black;
+    width: 240px;
+    margin: 20px auto;
+}
+
+row {
+    display: block;
+    clear: both;
+}
+
+cell {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid black;
+}
+
+row:nth-child(odd) cell:nth-child(even),
+row:nth-child(even) cell:nth-child(odd) {
+    background-color: black;
+    color: white;
+}

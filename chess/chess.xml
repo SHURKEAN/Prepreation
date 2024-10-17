@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chessboard SYSTEM "chess.dtd">
+<?xml-stylesheet href="chess.css" type="text/css"?>
+<chessboard>
+    <row number="8">
+        <cell>a8</cell> <cell>b8</cell> <cell>c8</cell> <cell>d8</cell> <cell>e8</cell> <cell>f8</cell> <cell>g8</cell> <cell>h8</cell>
+    </row>
+    <row number="7">
+        <cell>a7</cell> <cell>b7</cell> <cell>c7</cell> <cell>d7</cell> <cell>e7</cell> <cell>f7</cell> <cell>g7</cell> <cell>h7</cell>
+    </row>
+    <row number="6">
+        <cell>a6</cell> <cell>b6</cell> <cell>c6</cell> <cell>d6</cell> <cell>e6</cell> <cell>f6</cell> <cell>g6</cell> <cell>h6</cell>
+    </row>
+    <row number="5">
+        <cell>a5</cell> <cell>b5</cell> <cell>c5</cell> <cell>d5</cell> <cell>e5</cell> <cell>f5</cell> <cell>g5</cell> <cell>h5</cell>
+    </row>
+    <row number="4">
+        <cell>a4</cell> <cell>b4</cell> <cell>c4</cell> <cell>d4</cell> <cell>e4</cell> <cell>f4</cell> <cell>g4</cell> <cell>h4</cell>
+    </row>
+    <row number="3">
+        <cell>a3</cell> <cell>b3</cell> <cell>c3</cell> <cell>d3</cell> <cell>e3</cell> <cell>f3</cell> <cell>g3</cell> <cell>h3</cell>
+    </row>
+    <row number="2">
+        <cell>a2</cell> <cell>b2</cell> <cell>c2</cell> <cell>d2</cell> <cell>e2</cell> <cell>f2</cell> <cell>g2</cell> <cell>h2</cell>
+    </row>
+    <row number="1">
+        <cell>a1</cell> <cell>b1</cell> <cell>c1</cell> <cell>d1</cell> <cell>e1</cell> <cell>f1</cell> <cell>g1</cell> <cell>h1</cell>
+    </row>
+</chessboard>

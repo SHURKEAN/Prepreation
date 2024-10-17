@@ -1,0 +1,4 @@
+<!ELEMENT chessboard (row+)>
+<!ELEMENT row (cell+)>
+<!ATTLIST row number CDATA #REQUIRED>
+<!ELEMENT cell (#PCDATA)>
