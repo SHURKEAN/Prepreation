@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movie.dtd">
+<?xml-model href="movie.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+
+<movies>
+    <movie>
+        <title id = "psycho">Psycho</title>
+        <year id = "psycho-year">1960</year>
+        <genre>horror</genre>
+        <genre>mystery</genre>
+        <genre>thriller</genre>
+        <rating>8.5/10</rating>
+        <votes>730736</votes>
+    </movie>
+
+    <movie>
+        <title>Star Wars: Episode V - The Empire Strikes Back</title>
+        <year>1980</year>
+        <genre>action</genre>
+        <genre>adventure</genre>
+        <genre>fantasy</genre>
+        <rating>8.7/10</rating>
+        <votes>1402310</votes>
+    </movie>
+
+    <movie>
+        <title>The Dark Knight</title>
+        <year>2008</year>
+        <genre>action</genre>
+        <genre>crime</genre>
+        <genre>drama</genre>
+        <rating>9.0/10</rating>
+        <votes>2924774</votes>
+    </movie>
+
+    <movie>
+        <title id = "alien">Alien</title>
+        <year id = "alien-year">1979</year>
+        <genre>horror</genre>
+        <genre>sci-fi</genre>
+        <genre>drama</genre>
+        <rating>8.5/10</rating>
+        <votes>981779</votes>
+    </movie>
+
+    <movie>
+        <title>Monty Python and the Holy Grail</title>
+        <year>1975</year>
+        <genre>adventure</genre>
+        <genre>comedy</genre>
+        <genre>fantasy</genre>
+        <rating>8.2/10</rating>
+        <votes>576812</votes>
+    </movie>
+
+    <movie>
+        <title>A Space Odyssey</title>
+        <year>1968</year>
+        <genre>sci-fi</genre>
+        <rating>8.3/10</rating>
+        <votes>731706</votes>
+    </movie>
+</movies>

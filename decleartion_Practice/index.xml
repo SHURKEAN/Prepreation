@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<conference>
+    <name>Tech Conference 2024</name>
+    <location>New York</location>
+    <date>2024-11-05</date>
+    <sessions>
+        <session>
+            <title>AI and Machine Learning</title>
+            <speaker>John Smith</speaker>
+            <time>10:00 AM</time>
+        </session>
+        <session>
+            <title>Blockchain Technology</title>
+            <speaker>Jane Doe</speaker>
+            <time>2:00 PM</time>
+        </session>
+    </sessions>
+</conference>

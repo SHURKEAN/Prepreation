@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE lego_set SYSTEM "lego.dtd">
+<?xml-model href="lego.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="lego.css" type="text/css"?>
+<lego_set>
+    <lego-box id="set77773">
+        <id>77773</id>
+        <name>Batcave </name>
+        <theme>DC Batman</theme>
+        <description>Pay homage to the iconic Caped Crusader and his pursuits against crime with the LEGO DC Batman™ Batcave set. 
+            Fans of the Dark Knight can recreate their favorite moments and dive into a world of adventure with this impressive build, 
+            filled with exciting role play adventures and authentically detailed vehicles.</description>
+    </lego-box>
+
+    <lego-box id="set21042">
+        <id>21042</id>
+        <name>Statue of Liberty</name>
+        <theme>Architecture</theme>
+        <description>Celebrate a monumental blend of architecture and sculpture with this LEGO Architecture Statue of Liberty set. 
+            America’s iconic symbol of freedom, the Statue of Liberty was designed by 
+            French sculptor Frédéric Auguste Bartholdi and dedicated in 1886. The beautifully 
+            crafted Lady Liberty stands tall, holding a torch and tablet, inscribed with the date 
+            of the American Declaration of Independence. This elegant and detailed model features 
+            an intricately detailed pedestal, brick-built shield, and beautifully detailed crown, robe, and flowing drape. 
+            With its authentic architecture, this LEGO set is a wonderful display piece for the home or office.</description>
+    </lego-box>
+
+    <lego-box id="set21043">
+        <id>21043</id>
+        <name>Statue of Liberty</name>
+        <theme>Architecture</theme>
+        <description>Celebrate a monumental blend of architecture and sculpture with this LEGO Architecture Statue of Liberty set.
+             America’s iconic symbol of freedom, the Statue of Liberty was designed by French sculptor Frédéric Auguste Bartholdi 
+             and dedicated in 1886. The beautifully crafted Lady Liberty stands tall, holding a torch and tablet, 
+             inscribed with the date of the American Declaration of Independence. This elegant and detailed model 
+             features an intricately detailed pedestal, brick-built shield, and beautifully detailed crown, robe,
+              and flowing drape. With its authentic architecture, this LEGO set is a wonderful display piece for the home or office.</description>
+    </lego-box>
+</lego_set>

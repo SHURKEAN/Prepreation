@@ -1,0 +1,50 @@
+lego_set{
+    background-color: #00aaff;
+    margin-top: 13em;
+
+}
+
+lego-box {
+    display: block;
+    background-color: #f9f9f9;
+    border: 2px solid #00aaff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    margin: 0 auto;
+    transition: transform 0.3s ease;
+}
+
+
+lego-box > id {
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Styling for the name */
+lego-box > name {
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+/* Styling for the theme */
+lego-box > theme {
+    display: block;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+/* Styling for the description */
+lego-box > description {
+    display: block;
+    font-size: 15px;
+    text-align: center;
+}

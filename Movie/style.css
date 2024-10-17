@@ -1,0 +1,58 @@
+movies {
+    background-color: mintcream;
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 1em;
+}
+
+movie {
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 2em;
+    padding: 0.25em;
+}
+
+year::before{
+    content: '(';
+}
+
+year::after{
+    content: '):';
+}
+
+genre{
+    display: inline-block;
+    background-color: blueviolet;
+    text-align: center;
+    width: 5em;
+    color: white;
+    border-radius: 6px;
+    padding: 4px;
+}
+
+rating{
+    display: inline-block;
+    background-color: deeppink;
+    padding: 5px;
+    border-radius: 6px;
+    color: white;
+}
+
+votes::before{
+    content: "from ";
+}
+votes::after{
+    content: " ratings";
+}
+
+#psycho, #psycho-year, #alien, #alien-year{
+    color: red;
+    font-weight: bold;
+}
+
+movie:hover::after{
+    content: "https://www.imdb.com/title/tt" attr(id);
+    color: blueviolet;
+    background-color: gold;
+    font-size: large;
+}

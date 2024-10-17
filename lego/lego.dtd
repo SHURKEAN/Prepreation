@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT lego_set (lego-box*)>
+<!ELEMENT lego-box (id,name,theme,description)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT theme (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST lego-box id ID #REQUIRED>

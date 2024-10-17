@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT conference (name,location,date,sessions)>
+<!ELEMENT sessions (session*)>
+<!ELEMENT session (title,speaker,time)>
+
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT speaker (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
